@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+p,
+span {
+  margin-left: 20px;
+}
+hr {
+  margin: 20px;
+}
+
+.tasks-title {
+  margin-left: 20px;
+  margin-block: 20px;
+}
+.title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+header {
+  background-color: rgb(94, 248, 210);
+  height: 100px;
+  line-height: 100px;
+}
+
+.list-items {
+  margin-bottom: 20px;
+}
+.red {
+  background-color: rgb(255, 116, 116);
+}
+.yellow {
+  background-color: rgb(255, 246, 118);
+}
+.green {
+  background-color: rgb(116, 255, 128);
+}
+
+.label {
+  font-size: 1rem;
+  font-weight: 400;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 6px;
+}
